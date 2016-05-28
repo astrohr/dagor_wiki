@@ -7,10 +7,10 @@ WAN credentials are configured here:
 Buffalo config file:
 https://github.com/astrohr/dagor_tca/raw/master/wiki_files/buffalo_tican_nvrambak.bin
 
-can be uploaded via "Administration" / "Backup" page.
+... can be uploaded via "Administration" / "Backup" page.
 
-Buffalo IP: 10.1.4.1.
-TCS IP: 10.1.4.120  (set by mac address on Buffalo)
+Buffalo IP: **10.1.4.1**   
+TCS IP: **10.1.4.120**  (set by mac address on Buffalo)
 
 
 
