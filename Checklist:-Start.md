@@ -17,7 +17,7 @@ Set door control switch to middle position:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0005.jpg)
 
 
-# Dome control circuits
+## Dome control circuits
 
 Open the dome control enclosure:
 
@@ -38,7 +38,33 @@ Enable dome rotation:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0030.jpg)
 
 
-Additional items:
+## Telescope drives enclosure
+
+Engage power:
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0040.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0041.jpg)
+
+Check that Emergency Stop circuit is enabled:
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0050.jpg)
+
+> If this switch doesn't stay up, check that all Emergency Stop switches are disengaged.
+
+
+## Server
+
+Open the mini server rack: 
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0060.jpg)
+
+Power up:
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0063.jpg)
+
+
+
+# TODO:
 
  - trap door?
  - software login & control
