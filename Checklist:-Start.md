@@ -1,5 +1,3 @@
-# START Checklist
-
 Follow this checklist before moving the telescope or the dome.
 
 
