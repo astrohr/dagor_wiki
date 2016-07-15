@@ -1,6 +1,7 @@
 # START Checklist
 
-Follow this checklist when starting up.
+Follow this checklist before moving the telescope or the dome.
+
 
 ## 1. Dome
 
@@ -8,7 +9,7 @@ Check that dome can rotate freely:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0000.jpg)
 
-Check that cricket for opening doors of the dome manually is removed:
+Check that cricket for manually operating the doors is removed:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0001.jpg)
 
@@ -17,9 +18,9 @@ Set door control switch to middle position:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0005.jpg)
 
 
-## Dome control circuits
+## 2. Dome control circuits
 
-Open the dome control enclosure:
+Open the dome control enclosure. The key is inside fuses enclosure:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0010.jpg)
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0011.jpg)
@@ -38,7 +39,7 @@ Enable dome rotation:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0030.jpg)
 
 
-## Telescope drives enclosure
+## 3. Telescope drives enclosure
 
 Engage power:
 
@@ -52,7 +53,7 @@ Check that Emergency Stop circuit is enabled:
 > If this switch doesn't stay up, check that all Emergency Stop switches are disengaged.
 
 
-## Server
+## 4. Server
 
 Open the mini server rack: 
 
