@@ -28,9 +28,9 @@ Engage power:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0021.jpg)
 
-Connect Arduino controller to USB:
+~~Connect Arduino controller to USB:~~
+(stays connected)
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0022.jpg)
 
 Enable dome rotation:
 
