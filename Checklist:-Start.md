@@ -7,7 +7,7 @@ Check that dome can rotate freely:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0000.jpg)
 
-Check that ratchet for manually operating the doors is removed:
+Check that ratchet for manually operating the door is removed:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0001.jpg?v=3)
 
