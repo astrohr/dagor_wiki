@@ -58,6 +58,10 @@ Power up:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0065.jpg)
 
 
+# Next
+
+[Checklist: TCS login](https://github.com/astrohr/dagor_tca/wiki/Checklist:-TCS-login)
+
 
 # TODO:
 
