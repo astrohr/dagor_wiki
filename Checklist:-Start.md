@@ -7,9 +7,9 @@ Check that dome can rotate freely:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0000.jpg)
 
-Check that cricket for manually operating the doors is removed:
+Check that ratchet for manually operating the doors is removed:
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0001.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0001.jpg?v=3)
 
 Set door control switch to middle position:
 
@@ -55,11 +55,11 @@ Check that Emergency Stop circuit is enabled:
 
 Open the mini server rack: 
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0060.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0064.jpg)
 
 Power up:
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0063.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0065.jpg)
 
 
 
