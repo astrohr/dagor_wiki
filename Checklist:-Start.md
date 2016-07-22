@@ -5,11 +5,11 @@ Follow this checklist before moving the telescope or the dome.
 
 Check that dome can rotate freely:
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0000.jpg)
+![1](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0000.jpg)
 
 Check that ratchet for manually operating the door is removed:
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0001.jpg?v=3)
+![2](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0001.jpg?v=3)
 
 Set door control switch to middle position:
 
