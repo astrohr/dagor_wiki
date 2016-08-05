@@ -18,12 +18,6 @@ Set door control switch to middle position:
 
 ## 2. Dome control circuits
 
-Open the dome control enclosure. The key is inside fuses enclosure:
-
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0010.jpg)
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0011.jpg)
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0020.jpg)
-
 Engage power:
 
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0021.jpg)
