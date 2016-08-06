@@ -20,7 +20,7 @@ Set door control switch to middle position:
 
 Engage power:
 
-![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0021.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0031.jpg)
 
 Enable dome rotation:
 
