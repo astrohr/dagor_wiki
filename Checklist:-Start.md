@@ -16,7 +16,25 @@ Set door control switch to middle position:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0005.jpg)
 
 
-## 2. Dome control circuits
+## 2. Telescope
+
+Remove the tube cover:
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0101.jpg)
+
+... and place it like so:
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0111.jpg)
+
+Take care that door motor does not catch the cover. Do NOT place it in these positions:
+
+
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0112.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0113.jpg)
+![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0114.jpg)
+
+
+## 3. Dome control circuits
 
 Engage power:
 
@@ -27,7 +45,7 @@ Enable dome rotation:
 ![](https://raw.githubusercontent.com/astrohr/dagor_tca/master/wiki_files/img/checklist_start/0030.jpg)
 
 
-## 3. Telescope drives enclosure
+## 4. Telescope drives
 
 Engage power:
 
@@ -41,7 +59,7 @@ Check that Emergency Stop circuit is enabled:
 > If this switch doesn't stay up, check that all Emergency Stop switches are disengaged.
 
 
-## 4. Server
+## 5. Server
 
 Open the mini server rack: 
 
