@@ -103,17 +103,17 @@ Corrects the current coordinates. This is primarily useful when an image is plat
 Important: tracking needs to be restarted after this command!
 
  
-### `focus get``
+### `focus get`
 
 Shows current value of the focuser step counter.
 
 
-### `focus set [steps]`
+### `focus set <steps>`
 
 Sets step counter to specified value.
 
 
-### `focus goto [steps]` 
+### `focus goto <steps>` 
 
 Moves focuser to specified focuser position (number of steps).
 
