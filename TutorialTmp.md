@@ -2,7 +2,7 @@
 
 1. Use SSH to connect to DAGOR server (IP `10.1.4.120`). Get your own username & password beforehand at telescope@astro.hr. It is recommended to have 4 concurrent sessions. Recommended Windows client is MTPuTTY.
 2. Switch to user `dagor` by typing `dagor`. If prompted for password, use `dagor` again.
-3. The python script that controls the telescope is located at `~/tca`. One can run it using `python -m ~/tca [command]`. To shorten the command, there is alias: `d <command>`
+3. The python script that controls the telescope is located at `~/tca`. One can run it using `python -m ~/tca <command>`. An alias is available to shorten this: `d <command>`
 4. Typing just `d` returns a list of available commands. These commands are described in detail in the next section.
 
 ## DAGOR tca command list
