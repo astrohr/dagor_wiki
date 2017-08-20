@@ -2,7 +2,7 @@
 
 1. Use SSH to connect to DAGOR server (IP `10.1.4.120`). Get your own username & password beforehand at telescope@astro.hr. It is recommended to have 4 concurrent sessions. Recommended Windows client is MTPuTTY.
 2. Switch to user `dagor` by typing `dagor`. If prompted for password, use `dagor` again.
-3. The python script that controls the telescope is located at `~/tca`. One can run it using `python -m ~/tca [command]`. To shorten the command, there is alias: `d [command]`
+3. The python script that controls the telescope is located at `~/tca`. One can run it using `python -m ~/tca [command]`. To shorten the command, there is alias: `d <command>`
 4. Typing just `d` returns a list of available commands. These commands are described in detail in the next section.
 
 ## DAGOR tca command list
@@ -11,7 +11,7 @@
 
 Startas an API process. API needs to be running so that ASCOM drivers for the focuser and lights can operate.
 
-### `get [celest | local | altaz]`
+### `get (celest | local | altaz)`
 
 Returns current position of the telescope in (RA, DE), (HA, DE) or (ALT, AZ) coordinates, respectively.
 
@@ -37,7 +37,7 @@ Default chirality is `cw`.
 Position the telescope in maintenance position toward the north balcony.
 Default chirality is `ce`.
 
-### `goto altaz [coords] [ce | cw | cc] [quick | track]`
+### `goto altaz <ALT> <AZ> [ce | cw | cc] [quick | track]`
 
 Positions the telescope to point towards the specified "altaz" coordinates (altitude-azimuth), using specified chirality or closest path (`cc`, default). 
 
@@ -48,13 +48,13 @@ By default, the telescope does not track (altaz coordinates do not move). To ini
 Status information is displayed while telescope is moving and tracking.
 
 
-### `goto celest [coords] [ce | cw | cc] [quick | notrack]` 
+### `goto celest <RA> <DE> [ce | cw | cc] [quick | notrack]` 
 
 Positions the telescope to point towards the specified equatorial coordinates, using specified chirality or closest path (`cc`, default). 
 
 By default, the telescope does track (celestial coordinates move). Use `notrack` argument to prevent tracking once the coordinates have been reached.
 
-> TODO: do we have notrack here? 
+> TODO: do we have notrack here?  
 > TODO: do we have quick here? 
 
 "Quick" positioning has bigger tolerances on positioning error, so positioning is faster but less precise.
@@ -96,7 +96,7 @@ It is easy to get wrong data our of Stellarium. Check these points before using 
 Starts the "synchronization console" interface, which is used for manual correction of telescope position or manual movement for short distances.
 
 
-### `set celest <HA> <DE>`
+### `set celest <RA> <DE>`
 
 Corrects the current coordinates. This is primarily useful when an image is plate-solved - coordinates of the center of the image should be "set" using this command to get more accurate positioning around those coordinates.
 
@@ -134,7 +134,7 @@ Operates dome door. There is no indicator of actual door position, check with th
 Stops dome rotation and doors.
 
 
-### `lights [0 | 1 | 2 | 3]` 
+### `lights (0 | 1 | 2 | 3)` 
 
 Switches lights on and off.
 
@@ -162,7 +162,7 @@ position: -3187
 
 There we set focuser position to position zero (`d focus set 0`).
 
-Lastly we can return the focuser to the starting position which is the negative of the last position, e.g: `d focus goto 3187`
+Lastly we can return the focuser to the starting position which is the negative of the final position, e.g: `d focus goto 3187`
 
 
 If you get a trackback error at a first access to focuser, simply repeat the command. It should work. If the problem persists, recheck all connections.
