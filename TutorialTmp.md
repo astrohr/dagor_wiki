@@ -122,6 +122,7 @@ Moves focuser to specified focuser position (number of steps).
 
 Moves the dome left or right, respectively, if viewed from the control room.
 
+![220px-right-hand_grip_rule svg](https://user-images.githubusercontent.com/1173748/29496066-565f601e-85cb-11e7-9330-e89bf91a51d0.png)
 
 
 ### `dome (open | close)` 
